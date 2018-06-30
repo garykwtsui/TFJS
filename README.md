@@ -1,11 +1,7 @@
 # TensorFlow.js Example: Addition RNN
 
-This example uses an RNN to compute the addition of two integers by doing
-string => string translation. Obviously it's not the best way to add two
-numbers, but it makes a fun example.
+There are few toy examples in this repository.   Mainly they are for my own learning purposes (keeping track of my _learning_ progress about TFJS).
 
-Note: this example is a port of the Keras addition RNN example with a UI.
-
-You can find the original Keras python code [here](https://github.com/keras-team/keras/blob/master/examples/addition_rnn.py).
-
-[See this example live!](https://storage.googleapis.com/tfjs-examples/addition-rnn/dist/index.html)
+Toy examples: 
+1. XOR (more than 2 variables)
+2. Sine wave 
