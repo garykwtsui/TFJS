@@ -1,4 +1,4 @@
-# TensorFlow.js Example: Addition RNN
+# TensorFlow.js Examples: 
 
 There are few toy examples in this repository.   Mainly they are for my own learning purposes (keeping track of my _learning_ progress about TFJS).
 
